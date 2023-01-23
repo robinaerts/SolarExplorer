@@ -1,3 +1,0 @@
-# Solar Explorer
-
-WIP
