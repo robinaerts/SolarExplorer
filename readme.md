@@ -1,4 +1,5 @@
 ﻿# Solar Explorer
+![Solar Explorer](/solar/solarexplorer.webp)
 
 Each year in Flanders a Solar Olympiad takes place. For an entire year selected students from Flemish schools work out an idea they have for a solar powered Race Car or a solar powered Gadget.
 
@@ -9,12 +10,7 @@ In 2023 we decided to participate in the challenge. We wanted to make a hybrid c
 Before we could start building our car, we had to pitch our idea to the solar team, because only a limited amount of people can actually start building it. For this we made a 3D prototype and a folder with a sketch of our idea in it.
 
 [Our submission folder](/solar/inzending.pdf)
-
-**3D Prototype:**
-<iframe src="https://solar-challenge-jo7b.vercel.app/"  style="width: 100%;border-radius:5px" height="400px">
-
-###
-
+[3D prototype](https://solar-challenge-jo7b.vercel.app/")
 
 ### How it works
 
